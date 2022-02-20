@@ -546,10 +546,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="4"
-     inkscape:cx="350.3451"
-     inkscape:cy="183.55534"
+     inkscape:cx="402.21489"
+     inkscape:cy="113.55534"
      inkscape:document-units="px"
-     inkscape:current-layer="g2480"
+     inkscape:current-layer="layer1"
      showgrid="false"
      showborder="false"
      inkscape:window-width="1920"
@@ -6139,7 +6139,7 @@
                  height="7.9999828"
                  width="2"
                  id="rect1842"
-                 style="fill:#2b303b;fill-opacity:1;stroke:none" />
+                 style="fill:#25254f;fill-opacity:1;stroke:none" />
             </g>
             <rect
                style="fill:#eeeeee;fill-opacity:0;stroke:none"
@@ -6222,7 +6222,7 @@
             <g
                id="g1878"
                transform="translate(-3,-4.9999826)"
-               style="fill:#3b3c3e;fill-opacity:1">
+               style="fill:#25254f;fill-opacity:1">
               <rect
                  ry="0"
                  y="-725.95471"
@@ -6230,7 +6230,7 @@
                  height="7.9999828"
                  width="2"
                  id="rect1876"
-                 style="fill:#2b303b;fill-opacity:1;stroke:none"
+                 style="fill:#25254f;fill-opacity:1;stroke:none"
                  transform="rotate(-135)" />
             </g>
             <rect
@@ -6312,7 +6312,7 @@
          height="4"
          width="4"
          id="rect1912"
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#2b303b;fill-opacity:1;stroke:none;stroke-width:2.08839;marker:none;enable-background:accumulate"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#25254f;fill-opacity:1;stroke:none;stroke-width:2.08839;marker:none;enable-background:accumulate"
          ry="2" />
     </g>
     <g
@@ -6377,7 +6377,7 @@
            height="7.9999828"
            width="2"
            id="rect1934"
-           style="display:inline;fill:#2b303b;fill-opacity:1;stroke:none"
+           style="display:inline;fill:#25254f;fill-opacity:1;stroke:none"
            transform="rotate(-90)" />
       </g>
     </g>
@@ -6416,7 +6416,7 @@
                ry="11"
                rx="11" />
             <circle
-               style="fill:#353a47;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               style="fill:#25254f;fill-opacity:1;fill-rule:nonzero;stroke:none"
                id="circle1944"
                cx="41"
                cy="1041.3622"
@@ -6445,7 +6445,7 @@
            height="7.9999828"
            width="2"
            id="rect1954"
-           style="display:inline;opacity:1;fill:#353a47;fill-opacity:1;stroke:none" />
+           style="display:inline;opacity:1;fill:#25254f;fill-opacity:1;stroke:none" />
       </g>
     </g>
     <g
@@ -6482,7 +6482,7 @@
                ry="11"
                rx="11" />
             <circle
-               style="fill:#353a47;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               style="fill:#25254f;fill-opacity:1;fill-rule:nonzero;stroke:none"
                id="circle1964"
                cx="41"
                cy="1041.3622"
@@ -6494,7 +6494,7 @@
          inkscape:connector-curvature="0"
          d="m 1043.0028,337 h 0.75 c 0.01,-9e-5 0.016,-3.5e-4 0.023,0 0.1912,0.008 0.3824,0.0964 0.5156,0.23437 l 1.711,1.71094 1.7343,-1.71094 c 0.1993,-0.17287 0.335,-0.22912 0.5157,-0.23437 h 0.75 v 0.75 c 0,0.21485 -0.026,0.41298 -0.1875,0.5625 l -1.711,1.71093 1.6875,1.6875 c 0.1412,0.14113 0.211,0.34009 0.211,0.53907 V 343 h -0.75 c -0.199,-10e-6 -0.398,-0.0698 -0.5391,-0.21094 l -1.7109,-1.71094 -1.711,1.71094 c -0.1411,0.14114 -0.3401,0.21094 -0.539,0.21094 h -0.75 v -0.75 c 0,-0.19897 0.07,-0.39794 0.2109,-0.53907 l 1.7109,-1.6875 -1.7109,-1.71093 c -0.1581,-0.14598 -0.2274,-0.35194 -0.2109,-0.5625 V 337 Z"
          id="path1972"
-         style="color:#bebebe;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#353a47;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.78125;marker:none;enable-background:new" />
+         style="color:#bebebe;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#25254f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.78125;marker:none;enable-background:new" />
     </g>
     <g
        transform="translate(-704.99998,-480.63782)"
@@ -6531,7 +6531,7 @@
                ry="11"
                rx="11" />
             <circle
-               style="fill:#353a47;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               style="fill:#25254f;fill-opacity:1;fill-rule:nonzero;stroke:none"
                id="circle1980"
                cx="41"
                cy="1041.3622"
@@ -6560,7 +6560,7 @@
            height="7.9999828"
            width="2"
            id="rect1990"
-           style="display:inline;opacity:1;fill:#353a47;fill-opacity:1;stroke:none" />
+           style="display:inline;opacity:1;fill:#25254f;fill-opacity:1;stroke:none" />
       </g>
     </g>
     <g
@@ -6597,7 +6597,7 @@
                ry="11"
                rx="11" />
             <circle
-               style="fill:#353a47;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               style="fill:#25254f;fill-opacity:1;fill-rule:nonzero;stroke:none"
                id="circle2000"
                cx="41"
                cy="1041.3622"
@@ -6609,7 +6609,7 @@
          inkscape:connector-curvature="0"
          d="m 1043.0028,337 h 0.75 c 0.01,-9e-5 0.016,-3.5e-4 0.023,0 0.1912,0.008 0.3824,0.0964 0.5156,0.23437 l 1.711,1.71094 1.7343,-1.71094 c 0.1993,-0.17287 0.335,-0.22912 0.5157,-0.23437 h 0.75 v 0.75 c 0,0.21485 -0.026,0.41298 -0.1875,0.5625 l -1.711,1.71093 1.6875,1.6875 c 0.1412,0.14113 0.211,0.34009 0.211,0.53907 V 343 h -0.75 c -0.199,-10e-6 -0.398,-0.0698 -0.5391,-0.21094 l -1.7109,-1.71094 -1.711,1.71094 c -0.1411,0.14114 -0.3401,0.21094 -0.539,0.21094 h -0.75 v -0.75 c 0,-0.19897 0.07,-0.39794 0.2109,-0.53907 l 1.7109,-1.6875 -1.7109,-1.71093 c -0.1581,-0.14598 -0.2274,-0.35194 -0.2109,-0.5625 V 337 Z"
          id="path2008"
-         style="color:#bebebe;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#353a47;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.78125;marker:none;enable-background:new" />
+         style="color:#bebebe;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#25254f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.78125;marker:none;enable-background:new" />
     </g>
     <g
        transform="translate(220.00001,-91.00001)"
@@ -6785,7 +6785,7 @@
                  height="7.9999828"
                  width="2"
                  id="rect2068"
-                 style="fill:#2b303b;fill-opacity:1;stroke:none" />
+                 style="fill:#25254f;fill-opacity:1;stroke:none" />
             </g>
             <rect
                style="fill:#eeeeee;fill-opacity:0;stroke:none"
@@ -6876,7 +6876,7 @@
                  height="7.9999828"
                  width="2"
                  id="rect2102"
-                 style="fill:#2b303b;fill-opacity:1;stroke:none"
+                 style="fill:#25254f;fill-opacity:1;stroke:none"
                  transform="rotate(-135)" />
             </g>
             <rect
@@ -6958,7 +6958,7 @@
          height="4"
          width="4"
          id="rect2138"
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#2b303b;fill-opacity:1;stroke:none;stroke-width:2.08839;marker:none;enable-background:accumulate"
+         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#25254f;fill-opacity:1;stroke:none;stroke-width:2.08839;marker:none;enable-background:accumulate"
          ry="2" />
     </g>
     <g
@@ -7023,7 +7023,7 @@
            height="7.9999828"
            width="2"
            id="rect2160"
-           style="display:inline;fill:#2b303b;fill-opacity:1;stroke:none"
+           style="display:inline;fill:#25254f;fill-opacity:1;stroke:none"
            transform="rotate(-90)" />
       </g>
     </g>
@@ -7133,7 +7133,7 @@
          transform="translate(-2.2045153,1.9730481)"
          id="g2204">
         <path
-           style="display:inline;fill:#2b303b;fill-opacity:1;stroke:none"
+           style="display:inline;fill:#25254f;fill-opacity:1;stroke:none"
            d="m 491.36072,188.95163 -9.5312,9.5625 -4.7812,-4.78125 -3.1876,3.1875 4.7813,4.78125 3.1875,3.1875 3.1562,-3.1875 9.5626,-9.5625 z"
            id="path2202"
            inkscape:connector-curvature="0" />
@@ -7223,7 +7223,7 @@
                ry="11"
                rx="11.000001" />
             <circle
-               style="fill:#2d323f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               style="fill:#1e1e3f;fill-opacity:1;fill-rule:nonzero;stroke:none"
                id="circle2226"
                cx="41"
                cy="1041.3622"
@@ -7252,7 +7252,7 @@
            height="7.9999828"
            width="2"
            id="rect2236"
-           style="display:inline;opacity:1;fill:#2d323f;fill-opacity:1;stroke:none" />
+           style="display:inline;opacity:1;fill:#1e1e3f;fill-opacity:1;stroke:none" />
       </g>
     </g>
     <g
@@ -7289,7 +7289,7 @@
                ry="11"
                rx="11.000001" />
             <circle
-               style="opacity:1;fill:#2d323f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               style="opacity:1;fill:#1e1e3f;fill-opacity:1;fill-rule:nonzero;stroke:none"
                id="circle2246"
                cx="41"
                cy="1041.3622"
@@ -7301,7 +7301,7 @@
          inkscape:connector-curvature="0"
          d="m 1043.0028,337 h 0.75 c 0.01,-9e-5 0.016,-3.5e-4 0.023,0 0.1912,0.008 0.3824,0.0964 0.5156,0.23437 l 1.711,1.71094 1.7343,-1.71094 c 0.1993,-0.17287 0.335,-0.22912 0.5157,-0.23437 h 0.75 v 0.75 c 0,0.21485 -0.026,0.41298 -0.1875,0.5625 l -1.711,1.71093 1.6875,1.6875 c 0.1412,0.14113 0.211,0.34009 0.211,0.53907 V 343 h -0.75 c -0.199,-10e-6 -0.398,-0.0698 -0.5391,-0.21094 l -1.7109,-1.71094 -1.711,1.71094 c -0.1411,0.14114 -0.3401,0.21094 -0.539,0.21094 h -0.75 v -0.75 c 0,-0.19897 0.07,-0.39794 0.2109,-0.53907 l 1.7109,-1.6875 -1.7109,-1.71093 c -0.1581,-0.14598 -0.2274,-0.35194 -0.2109,-0.5625 V 337 Z"
          id="path2254"
-         style="color:#bebebe;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#2d323f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.78125;marker:none;enable-background:new" />
+         style="color:#bebebe;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#1e1e3f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.78125;marker:none;enable-background:new" />
     </g>
     <g
        transform="translate(-584,-480.63782)"
@@ -7338,7 +7338,7 @@
                ry="11"
                rx="11.000001" />
             <circle
-               style="fill:#2d323f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               style="fill:#1e1e3f;fill-opacity:1;fill-rule:nonzero;stroke:none"
                id="circle2262"
                cx="41"
                cy="1041.3622"
@@ -7367,7 +7367,7 @@
            height="7.9999828"
            width="2"
            id="rect2272"
-           style="display:inline;opacity:1;fill:#2d323f;fill-opacity:1;stroke:none" />
+           style="display:inline;opacity:1;fill:#1e1e3f;fill-opacity:1;stroke:none" />
       </g>
     </g>
     <g
@@ -7404,7 +7404,7 @@
                ry="11"
                rx="11.000001" />
             <circle
-               style="opacity:1;fill:#2d323f;fill-opacity:1;fill-rule:nonzero;stroke:none"
+               style="opacity:1;fill:#1e1e3f;fill-opacity:1;fill-rule:nonzero;stroke:none"
                id="circle2282"
                cx="41"
                cy="1041.3622"
@@ -7416,7 +7416,7 @@
          inkscape:connector-curvature="0"
          d="m 1043.0028,337 h 0.75 c 0.01,-9e-5 0.016,-3.5e-4 0.023,0 0.1912,0.008 0.3824,0.0964 0.5156,0.23437 l 1.711,1.71094 1.7343,-1.71094 c 0.1993,-0.17287 0.335,-0.22912 0.5157,-0.23437 h 0.75 v 0.75 c 0,0.21485 -0.026,0.41298 -0.1875,0.5625 l -1.711,1.71093 1.6875,1.6875 c 0.1412,0.14113 0.211,0.34009 0.211,0.53907 V 343 h -0.75 c -0.199,-10e-6 -0.398,-0.0698 -0.5391,-0.21094 l -1.7109,-1.71094 -1.711,1.71094 c -0.1411,0.14114 -0.3401,0.21094 -0.539,0.21094 h -0.75 v -0.75 c 0,-0.19897 0.07,-0.39794 0.2109,-0.53907 l 1.7109,-1.6875 -1.7109,-1.71093 c -0.1581,-0.14598 -0.2274,-0.35194 -0.2109,-0.5625 V 337 Z"
          id="path2290"
-         style="color:#bebebe;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#2d323f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.78125;marker:none;enable-background:new" />
+         style="color:#bebebe;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:'Andale Mono';-inkscape-font-specification:'Andale Mono';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#1e1e3f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.78125;marker:none;enable-background:new" />
     </g>
     <g
        style="display:inline;opacity:0.7"
@@ -7964,7 +7964,7 @@
                sodipodi:nodetypes="csscccsscc"
                inkscape:connector-curvature="0"
                d="m 87.799705,972 h 3.381737 c 0.450297,0 0.816227,0.36847 0.818758,0.8188 v 3.3817 z m 2.407413,6.00692 H 86.81204 c -0.450346,0 -0.818758,-0.36842 -0.818758,-0.81875 v -3.39509 l 4.213836,4.21384"
-               style="fill:#2d323f;fill-opacity:1;fill-rule:evenodd;stroke:none"
+               style="fill:#1e1e3f;fill-opacity:1;fill-rule:evenodd;stroke:none"
                id="path2500" />
           </g>
         </g>
@@ -8053,7 +8053,7 @@
              id="g2536">
             <path
                sodipodi:nodetypes="ccccc"
-               style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#2d323f;fill-opacity:1;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+               style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#1e1e3f;fill-opacity:1;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
                id="path2534"
                d="m 86.0002,974 v 2 h 6 v -2 z"
                inkscape:connector-curvature="0" />
