@@ -21,6 +21,6 @@ foreach variant : get_option('variants')
 
   install_data(
     themerc,
-    install_dir : prefix / install_dir.get(variant) / common_dirs.get('xfce-notify')
+    install_dir : prefix / install_dir.get(variant) / common_dirs.get('xfce-notifyd')
   )
 endforeach
