@@ -33,7 +33,7 @@ Arc Purple comes with themes for the following:
 
 #### From releases
 
-Download the newest release from GitHub's Releases page and unpack it to `/usr/local/themes`, `~/.themes` or `~/.local/themes`
+Download the newest release from GitHub's Releases page and unpack it to `/usr/share/themes`, `~/.themes` or `~/.local/share/themes`
 
 ## Known Issues
 
