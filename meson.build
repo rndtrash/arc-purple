@@ -15,6 +15,7 @@ variant_name = {
   'darker' : (get_option('transparency') ? 'Arc-Darker' : 'Arc-Darker-solid'),
   'dark' : (get_option('transparency') ? 'Arc-Dark' : 'Arc-Dark-solid'),
   'lighter' : (get_option('transparency') ? 'Arc-Lighter' : 'Arc-Lighter-solid'),
+  'purple' : (get_option('transparency') ? 'Arc-Purple' : 'Arc-Purple-solid')
 }
 
 prefix = get_option('prefix')
@@ -25,10 +26,12 @@ install_dir = {
   'darker' : datadir / 'themes' / variant_name.get('darker'),
   'dark' : datadir / 'themes' / variant_name.get('dark'),
   'lighter' : datadir / 'themes' / variant_name.get('lighter'),
+  'purple' : datadir / 'themes' / variant_name.get('purple'),
 }
 
 # sassc dependency
-foreach theme : ['cinnamon', 'gnome-shell', 'gtk3', 'gtk4']
+#foreach theme : ['cinnamon', 'gnome-shell', 'gtk3', 'gtk4']
+foreach theme : ['gnome-shell', 'gtk3', 'gtk4']
   if theme in get_option('themes')
     sassc = find_program('sassc')
     if get_option('debug')

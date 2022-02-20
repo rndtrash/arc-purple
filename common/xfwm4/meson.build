@@ -11,6 +11,10 @@ if 'dark' in get_option('variants') or 'darker' in get_option('variants')
   subdir('dark')
 endif
 
+if 'purple' in get_option('variants')
+  subdir('purple')
+endif
+
 foreach variant : get_option('variants')
   if variant == 'light' or variant == 'lighter'
     themerc = 'light/themerc'
@@ -20,6 +24,10 @@ foreach variant : get_option('variants')
     themerc = 'dark/themerc'
     assets = xfwm_dark_assets
     asset_files = xfwm_dark_asset_files
+  elif variant == 'purple'
+    themerc = 'purple/themerc'
+    assets = xfwm_purple_assets
+    asset_files = xfwm_purple_asset_files
   endif
 
   install_data(

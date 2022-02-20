@@ -17,7 +17,7 @@ foreach variant : get_option('variants')
       'menubar_button',
       'menubar'
     ]
-  elif variant == 'dark' or variant == 'darker'
+  elif variant == 'dark' or variant == 'darker' or variant == 'purple'
     light_menubar_toolbar_assets = [
       'button-active',
       'button-hover',

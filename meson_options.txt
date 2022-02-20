@@ -1,14 +1,15 @@
 option(
   'themes',
   type: 'array',
-  choices: ['cinnamon', 'gnome-shell', 'gtk2', 'gtk3', 'gtk4', 'metacity', 'plank', 'unity', 'xfwm'],
+#  choices: ['cinnamon', 'gnome-shell', 'gtk2', 'gtk3', 'gtk4', 'metacity', 'plank', 'unity', 'xfwm'],
+  choices: ['gtk2', 'gtk3', 'gtk4', 'xfwm'],
   description: 'List of themes to build',
 )
 
 option(
   'variants',
   type: 'array',
-  choices: ['light', 'darker', 'dark', 'lighter'],
+  choices: ['light', 'darker', 'dark', 'lighter', 'purple'],
   description: 'List of theme variants to build',
 )
 
