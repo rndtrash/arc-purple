@@ -29,7 +29,7 @@ Arc Purple comes with themes for the following:
 
 #### Manual installation
 
-`meson setup --prefix=~/.local -Dvariants=purple -Dthemes=gtk2,gtk3,gtk4,xfwm build/`
+`meson setup --prefix=~/.local -Dvariants=purple -Dthemes=gtk2,gtk3,gtk4,xfwm,xfce-notifyd build/`
 `ninja -C build && meson install -C build/`
 
 #### From releases
