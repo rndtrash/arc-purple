@@ -13,6 +13,7 @@ This fork adds a purple-yellow color scheme.
 Arc Purple comes with themes for the following:
 * GTK 3
 * Xfwm
+* Xfce4-notifyd
 
 ## Unsupported, but planned toolkits and desktops
 
