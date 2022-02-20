@@ -1,8 +1,7 @@
 option(
   'themes',
   type: 'array',
-#  choices: ['cinnamon', 'gnome-shell', 'gtk2', 'gtk3', 'gtk4', 'metacity', 'plank', 'unity', 'xfwm'],
-  choices: ['gtk2', 'gtk3', 'gtk4', 'xfwm'],
+  choices: ['cinnamon', 'gnome-shell', 'gtk2', 'gtk3', 'gtk4', 'metacity', 'plank', 'unity', 'xfwm'],
   description: 'List of themes to build',
 )
 

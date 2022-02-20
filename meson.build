@@ -30,8 +30,7 @@ install_dir = {
 }
 
 # sassc dependency
-#foreach theme : ['cinnamon', 'gnome-shell', 'gtk3', 'gtk4']
-foreach theme : ['gnome-shell', 'gtk3', 'gtk4']
+foreach theme : ['cinnamon', 'gnome-shell', 'gtk3', 'gtk4']
   if theme in get_option('themes')
     sassc = find_program('sassc')
     if get_option('debug')
