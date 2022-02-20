@@ -23,7 +23,8 @@ common_dirs = {
   'metacity' : 'metacity-1',
   'plank' : 'plank',
   'unity' : 'unity',
-  'xfwm' : 'xfwm4'
+  'xfwm' : 'xfwm4',
+  'xfce-notifyd': 'xfce-notify-4.0'
 }
 
 foreach theme : get_option('themes')
